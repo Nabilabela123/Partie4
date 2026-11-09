@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE meteo SYSTEM "tp.dtd">
+<meteo>
+    <mesure date="2005-02-01">
+        <ville nom="BOUZNIKA" temperature="23"/>
+        <ville nom="Casablanca" temperature="22"/>
+        <ville nom="Mohammedia" temperature="42"/>
+        <ville nom="Marrakech" temperature="30"/>
+        <ville nom="Rabat" temperature="22"/>
+        <ville nom="Tanger" temperature="25"/>
+        <ville nom="Dakhla" temperature="33"/>
+        <ville nom="LAAYOUNE" temperature="35"/>
+    </mesure>
+     <mesure date="2025-11-12">
+        <ville nom="BOUZNIKA" temperature="28"/>
+        <ville nom="Casablanca" temperature="22"/>
+        <ville nom="Mohammedia" temperature="33"/>
+        <ville nom="Marrakech" temperature="34"/>
+        <ville nom="Rabat" temperature="32"/>
+        <ville nom="Tanger" temperature="41"/>
+        <ville nom="Dakhla" temperature="21"/>
+        <ville nom="LAAYOUNE" temperature="26"/>
+    </mesure>
+</meteo>
