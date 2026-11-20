@@ -171,16 +171,3 @@ Chaque ville devient une barre SVG :
 </xsl:for-each>
 ```
 
-## Execution
-
-1. Ouvrir `meteo.xml` ou `meteo2.xml` dans un navigateur prenant en charge XSLT.
-2. Pour regenerer `m1.html`, transformer `meteo.xml` avec `meteo.xsl`.
-3. Pour regenerer `m1.svg`, transformer `meteo2.xml` avec `meteo2.xsl`.
-4. Valider les documents XML avec leur DTD ou leur fichier XSD avant publication.
-
-## Resultat attendu
-
-- page HTML avec les cartes des villes, le tableau des temperatures et les statistiques ;
-- graphique SVG avec une barre par ville pour la date `2005-02-01` ;
-- nombres de villes : `8` ;
-- moyenne des temperatures du bulletin : `29,0 °C`.
